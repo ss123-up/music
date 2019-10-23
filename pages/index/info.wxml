@@ -1,0 +1,59 @@
+<view style="background:#ccc;color:#000;height:100%">
+<scroll-view class="content-info" scroll-y>
+<swiper class="content-info-slid" indicator-color="rgba(255,255,255,.5)" 
+indicator-active-color="#fff" indicator-dots circular autoplay>
+<swiper-item>
+<image src="/images/test.jpg"/>
+</swiper-item>
+<swiper-item>
+<image src="/images/test0.jpg"/>
+</swiper-item>
+<swiper-item>
+<image src="/images/test1.jpg"/>
+</swiper-item>
+</swiper>
+
+<view class="content-info-portal">
+<view>
+<image src="/images/04.png"/>
+<text>私人FM</text>
+</view>
+<view>
+<image src="/images/05.png"/>
+<text>新歌榜</text>
+</view>
+<view>
+<image src="/images/06.png"/>
+<text>每日推荐</text>
+</view>
+</view>
+
+<view class="content-info-list">
+<view class="content-list">推荐歌曲</view>
+<view class="list-inner">
+<view class="list-item">
+<image src="/images/ZLL.jpg"/> <view>紫罗兰</view>
+</view>
+<view class="list-item">
+<image src="/images/YL.jpg"/> <view>野狼</view>
+</view>
+<view class="list-item">
+<image src="/images/PTS.jpg"/> <view>菩提树</view>
+</view>
+<view class="list-item">
+<image src="/images/HLS.jpg"/> <view>欢乐颂</view>
+</view>
+<view class="list-item">
+<image src="/images/AHQ.jpg"/> <view>安魂曲</view>
+</view>
+<view class="list-item">
+<image src="/images/YLQ.jpg"/> <view>摇篮曲</view>
+</view>
+</view>
+</view>
+</scroll-view>
+</view>
+
+
+
+

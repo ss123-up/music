@@ -1,0 +1,5 @@
+<scroll-view scroll-x scroll-y style="height:200px" bindscroll="scroll">
+<view style="width:200%;height:400px;background:#ccc">
+</view>
+</scroll-view>
+<slider bindchanging="sliderChanging" show-value/>
